@@ -1,0 +1,113 @@
+body{
+    background-color: #ffdecf;
+    /* direction: rtl; */
+    margin: 0 auto;
+    font-size: 30px ;
+    font-family: 'Almarai', sans-serif;
+    
+} 
+.op0{
+    background-image: url(./img/fg.jpg);
+    background-position: center left;
+    height: 245px;
+    /* width: 200%; */
+    
+}
+
+.op01{
+    background-image: url(./img/qsdfgsx.jpeg);
+    background-position: left center;
+    height: 277px;
+    /* width: 200%; */
+    
+}
+
+
+
+
+
+
+
+
+
+
+ .nng{
+     direction: rtl;
+     /* display: block; */
+     margin-top: 211px;
+}
+.nmbr{
+    direction: rtl;
+    text-align: center;
+
+
+}
+
+.nmbr4{
+    direction: rtl;
+    text-align: center;
+    margin-right: 121px;
+
+}
+
+.ho{
+    text-align: right;
+}
+.oppp{
+    float: left;
+    animation: opppp 2s  infinite ;
+    margin-top: -77px;
+
+}
+.oppp3{
+    float: left;
+    animation: opppp 2s  infinite ;
+    margin-top: -77px;
+
+}
+@keyframes opppp{
+0%{transform:  translateY(-4px);}
+30%{transform: translateY(0px);}
+50%  {transform:  translateY(7px);}
+80%{transform: translateY(4px);}
+100%{transform: translateY( 0px);}
+
+}
+span{
+    color: red;
+}
+.ojn{
+    direction: rtl;
+
+}
+.ojn1{
+    direction: rtl;
+    color:#0000a3;
+}
+.xc4{
+    text-align: center;
+}
+.ender{
+    display: block;
+    height: 502px;;
+    background-color: #59a4db;
+    /* background-image: linear-gradient(red, yellow); */
+    margin: 2px -27px;
+    margin-top: 103px;
+}
+.ol{
+    float: left;
+    
+     /* text-align: center; */
+    /* background-image: url(./img/rt.jpg ) ; */
+    /* background-color: black; */
+}
+.ol2{
+    float: left;
+    margin-top: 60px;
+     /* text-align: center; */
+    /* background-image: url(./img/rt.jpg ) ; */
+    /* background-color: black; */
+}
+
+

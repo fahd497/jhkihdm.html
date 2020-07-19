@@ -1,0 +1,120 @@
+body{
+    background-color: #ffdecf;
+    direction: rtl;
+    margin: 0 auto;
+    font-size: 30px ;
+    font-family: 'Almarai', sans-serif;
+}
+
+.op {background-color:#4ba0dceb;
+    margin-left: -30px;}
+.op a {
+text-decoration: none;
+color: white;
+font-size: 48px;
+padding: 29px;
+display:inline-block;
+}
+ul {
+display: inline;
+margin: 0;
+padding: 0;
+}
+ul li {display: inline-block;}
+ul li:hover {background: #555;}
+ul li:hover ul {display: block;}
+ul li ul {
+position: absolute;
+width: 200px;
+display: none;
+}
+ul li ul li { 
+background: #555; 
+display: block; 
+}
+ul li ul li a {display:block !important;} 
+ul li ul li:hover {background: #666;}
+.card{
+display: inline-block;
+}
+.ol{
+    float: left;
+    
+     /* text-align: center; */
+    /* background-image: url(./img/rt.jpg ) ; */
+    /* background-color: black; */
+}
+.ol2{
+    float: left;
+    margin-top: 60px;
+     /* text-align: center; */
+    /* background-image: url(./img/rt.jpg ) ; */
+    /* background-color: black; */
+}
+
+.ll{
+    transition: width 2s;
+}
+#ll4{
+    transition-timing-function: linear;
+}
+
+
+.ll:hover{
+    height: 2px;
+}
+.img2{
+  float: left;
+ /* margin-right: 0px; */
+ padding-right: 118px;
+ margin-top: 36px;
+
+}
+
+
+.opl4k{transition:transform .3s ;}
+.opl4k:hover{
+    transform: rotate(180deg);
+}
+
+
+
+
+.ok1{
+
+display: inline-flex;
+
+
+}
+.klam1{
+ 
+}
+.ok2{
+    display: block;
+}
+.ender{
+display: block;
+    height:  404px;
+    background-color: #4ba0dceb;
+    /* background-image: linear-gradient(red, yellow); */
+    margin: 2px -27px;
+
+
+}
+
+#input1{
+background-color: #4ba0dceb;
+font-size: 21px;
+}
+#input2{
+    background-color: #4ba0dceb;
+    font-size: 21px;
+}
+#input3{
+    background-color: #4ba0dceb;
+    font-size: 21px;
+}
+#button{
+    background-color: #4ba0dceb;
+    font-size: 30px;
+}
